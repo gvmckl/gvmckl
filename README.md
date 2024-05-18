@@ -2,6 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=35&lines=Meu+nome+é+Geovanna+Mickaella!;Sou+uma+Desenvolvedora+Web+Full+Stack+com+foco+em+Frontend!;)](https://git.io/typing-svg)
 
+<p align="justify">🌎 Olá mundo! Tenho 19 anos e sou apaixonada por tecnologia, educação, inovação e empreendedorismo.</p>
+
+<p align="justify">Atualmente, sou graduanda em Engenharia Biomédica na Universidade Federal de Pernambuco e tenho formação em Desenvolvimento Web Fullstack.</p>
+
+<p align="justify">Durante o ensino médio no Instituto Federal de Pernambuco, tive a oportunidade de ser pesquisadora científica e trabalhar em projetos que abrangiam áreas como mecânica, meio ambiente, educação, saúde, eletrônica e programação. Além de trabalhar internamente nos projetos da instituição também participei de programas, iniciativas e competições nacionais e internacionais, me proporcionando ganhar notoriedade no mundo da educação, o que me deu a oportunidade de defender a importância da educação e o quanto ela pode mudar nossas vidas.</p>
+
+<p align="justify">Com base nessas experiências, sempre busco incentivar mais jovens a participarem de competições científicas e explorarem o mundo STEM ❤️.</p>
+
 <br>
 
 <p align="center">
