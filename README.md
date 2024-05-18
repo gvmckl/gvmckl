@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gvmckl&color=7467EE&style=plastic&label=Profile+Views" alt="Profile Views" width="130"/> </p>
 
-#
+<br>
 
 <p align="center">
 <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api?username=gvmckl&show_icons=true&theme=dark" alt="Estatísticas do meu perfil:"/>
