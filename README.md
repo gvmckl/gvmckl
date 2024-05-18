@@ -4,14 +4,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gvmckl&color=7467EE" alt="Visualizações do perfil"/> <p>
 
-###
+#
 
 <p align="center">
-<img width="400em" height="150px" src="https://github-readme-stats.vercel.app/api?username=gvmckl&show_icons=true&theme=dark" alt="Estatísticas do meu perfil:"/>
-<img width="400em" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmckl&layout=compact&theme=dark" alt="Linguagens mais utilizadas por mim:"/>
+<img width="500em" height="150px" src="https://github-readme-stats.vercel.app/api?username=gvmckl&show_icons=true&theme=dark" alt="Estatísticas do meu perfil:"/>
+<img width="600em" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmckl&layout=compact&theme=dark" alt="Linguagens mais utilizadas por mim:"/>
 </p>
 
-<br>
+#
 
 ## 💻 Tecnologias que domino:
 
@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50px"/>&nbsp;
 
-<br>
+#
 
 ## 💻 Tecnologias que estou estudando atualmente ou tenho interesse:
 
@@ -37,7 +37,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"/>&nbsp;
 
-<br>
+#
 
 ## 🌐 Contatos e Redes Socias 
 
@@ -47,3 +47,11 @@
   <a href="www.linkedin.com/in/geovanna-mickaella-076338262" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%237467EE?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://open.spotify.com/user/31mnhk2dnxn3632rgbcswsllcu2y" target="_blank"><img src="https://img.shields.io/badge/-spotify-%237467EE?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
+
+# 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gvmckl/gvmckl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gvmckl/gvmckl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gvmckl/gvmckl/output/github-contribution-grid-snake.svg">
+</picture>
