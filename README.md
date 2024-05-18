@@ -39,19 +39,6 @@
 
 <br>
 
-## ⚙️ Análises do GitHub
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gvmckl/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gvmckl/gvmckl/output/snake.svg" alt="Animação Snake" />
-
-###
-<br>
-
 ## 🌐 Contatos e Redes Socias 
 
 <div> 
