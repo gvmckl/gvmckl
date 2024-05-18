@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=35&lines=Olá!+Meu+nome+é+Geovanna+Mickaella!;Sou+uma+Desenvolvedora+Web+Full+Stack+com+foco+em+Frontend!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=40&lines=Olá!+Meu+nome+é+Geovanna+Mickaella!;Sou+uma+Desenvolvedora+Web+Full+Stack+com+foco+em+Frontend!;)](https://git.io/typing-svg)
 
 <p align="justify">🌎 Olá mundo! Tenho 19 anos e sou apaixonada por tecnologia, educação, inovação e empreendedorismo.</p>
 
