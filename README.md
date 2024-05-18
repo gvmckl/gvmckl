@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=35&lines=Meu+nome+é+Geovanna+Mickaella!;Sou+uma+Desenvolvedora+Web+Full+Stack+com+foco+em+Frontend!;)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gvmckl&color=7467EE&style=plastic&label=Profile+Views" alt="Profile Views" width="130"/> </p>
-
 <br>
 
 <p align="center">
@@ -11,7 +9,9 @@
 <img width="400px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvmckl&layout=compact&theme=dark" alt="Linguagens mais utilizadas por mim:"/>
 </p>
 
-#
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gvmckl&color=7467EE&style=plastic&label=Profile+Views" alt="Profile Views" width="130"/> </p>
 
 ## 💻 Tecnologias que domino:
 
