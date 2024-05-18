@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=35&lines=Meu+nome+é+Geovanna+Mickaella!;Sou+uma+Desenvolvedora+Web+Full+Stack+com+foco+em+Frontend!;)](https://git.io/typing-svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gvmckl&color=7467EE" alt="Visualizações do perfil"/> <p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gvmckl&color=7467EE&style=plastic&label=Profile+Views" alt="Profile Views" width="130"/> </p>
 
 #
 
