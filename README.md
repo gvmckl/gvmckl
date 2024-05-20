@@ -50,7 +50,8 @@
 <div> 
   <a href="https://www.instagram.com/gvmckl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%237467EE?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:gvmckl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%237467EE?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/geovanna-mickaella-076338262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%237467EE?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/geovanna-mickaella-076338262/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%237467EE?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31mnhk2dnxn3632rgbcswsllcu2y" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%237467EE?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
 
