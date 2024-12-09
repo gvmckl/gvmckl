@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=40&lines=Hello!+My+name+is+Geovanna+Mickaella!;I+am+a+Full+Stack+Web+Developer+with+a+focus+on+Frontend!;)](https://git.io/typing-svg)
 
-<p align="justify">🌎 Hello world! I am 19 years old and passionate about technology, education, innovation, and entrepreneurship.</p>
+<p align="justify">🌎 Hello, world! I’m 19 years old and passionate about technology, education, innovation, and entrepreneurship.</p>
 
-<p align="justify">Currently, I am an undergraduate student in Biomedical Engineering at the Federal University of Pernambuco and have training in Fullstack Web Development.</p>
+<p align="justify">I’m a Biomedical Engineering student at the Federal University of Pernambuco and a certified Fullstack Web Developer. My journey is marked by academic and scientific experiences, including my role as a researcher at the Federal Institute of Pernambuco, as well as participation in national and international competitions and awards. ❤️</p>
 
-<p align="justify">During high school at the Federal Institute of Pernambuco, I had the opportunity to be a scientific researcher and work on projects that covered areas such as mechanics, environment, education, health, electronics, and programming. In addition to working on internal projects at the institution, I also participated in programs, initiatives, and competitions at national and international levels, allowing me to gain recognition in the education world. This gave me the opportunity to advocate for the importance of education and how it can change our lives.</p>
-
-<p align="justify">Based on these experiences, I always seek to encourage more young people to participate in scientific competitions and explore the STEM world ❤️.</p>
+<p align="justify">Focused on technological and social solutions, I strive to promote inclusion and access to education in STEM fields. I believe in the transformative power of technology and education and am committed to inspiring the next generation of innovators.</p>
 
 <br>
 
