@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7467EE&random=false&width=800&height=40&lines=Hello!+My+name+is+Geovanna+Mickaella!;I+am+a+Full+Stack+Web+Developer+with+a+focus+on+Frontend!;)](https://git.io/typing-svg)
 
-<p align="justify">🌎 Hello, world! I’m 19 years old and passionate about technology, education, innovation, and entrepreneurship.</p>
+<p align="justify">🌎 Hello, world! I’m 20 years old and passionate about technology, education, innovation, and entrepreneurship.</p>
 
 <p align="justify">I’m a Biomedical Engineering student at the Federal University of Pernambuco and a certified Fullstack Web Developer. My journey is marked by academic and scientific experiences, including my role as a researcher at the Federal Institute of Pernambuco, as well as participation in national and international competitions and awards. ❤️</p>
 
